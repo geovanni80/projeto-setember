@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(79, 79, 153);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 720px;
+    width: 1280px;
+}
+
+.cabecalho{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
